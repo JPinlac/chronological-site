@@ -26,3 +26,9 @@ article {
     flex-grow: 1;
     margin: 0;
 }
+.subheader{
+    opacity: .7;
+}
+.signature {
+    text-align: end;
+}
