@@ -46,6 +46,10 @@ article{
 .signature {
     text-align: end;
 }
+.puke, .note {
+    visibility: hidden;
+    display: none;
+}
 
 @media screen and (min-width:36em){
     article{
